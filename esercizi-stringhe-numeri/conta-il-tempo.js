@@ -12,4 +12,4 @@
 
   http://www.imparareaprogrammare.it
 */
-var time = 60;
+var valorenumerico = 12560;
